@@ -1,0 +1,399 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="newperfectcycles.com" resolutions="1x" timestamp="1570192812639">
+  <folder name="phone">
+    <folder name="css">
+      <file name="road-bike.css" crc="4138746527" ref="phone>road-bike"/>
+      <file name="cross-country-cycle.css" crc="4138746527" ref="phone>cross-country-cycle"/>
+      <file name="index.css" crc="4138746527" ref="phone>index"/>
+      <file name="bmx.css" crc="4138746527" ref="phone>bmx"/>
+      <file name="fitness-cycles.css" crc="4138746527" ref="phone>fitness-cycles"/>
+      <file name="gallery.css" crc="4138746527" ref="phone>gallery"/>
+      <file name="girls-cycle.css" crc="4138746527" ref="phone>girls-cycle"/>
+      <file name="mountain-bike.css" crc="4138746527" ref="phone>mountain-bike"/>
+      <file name="about.css" crc="4138746527" ref="phone>about"/>
+      <file name="kids-cycle.css" crc="4138746527" ref="phone>kids-cycle"/>
+      <file name="products.css" crc="4138746527" ref="phone>products"/>
+      <file name="contact.css" crc="4138746527" ref="phone>contact"/>
+      <file name="master_a-master.css" crc="516888886" ref="phone>bmx:phone>girls-cycle:phone>contact:phone>road-bike:phone>products:phone>about:phone>mountain-bike:phone>index:phone>kids-cycle:phone>cross-country-cycle:phone>fitness-cycles:phone>gallery"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>bmx:phone>girls-cycle:phone>contact:phone>road-bike:phone>products:phone>about:phone>mountain-bike:phone>index:phone>kids-cycle:phone>cross-country-cycle:phone>fitness-cycles:phone>gallery"/>
+      <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="3852488981" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="products.html" crc="210191619" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="mountain-bike.html" crc="4110132934" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="road-bike.html" crc="4009983507" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="cross-country-cycle.html" crc="4065753154" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="bmx.html" crc="4239609016" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="fitness-cycles.html" crc="181519103" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="girls-cycle.html" crc="462038247" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="kids-cycle.html" crc="4144860780" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="contact.html" crc="4146695632" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="gallery.html" crc="40018726" seo="true" mt="1568970500151" redirect="true"/>
+    <file name="about.html" crc="34006857" seo="true" mt="1568970500151" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="332828961"/>
+    <file name="master_a-master.css" crc="4177661551" ref="mountain-bike:cross-country-cycle:contact:bmx:kids-cycle:girls-cycle:about:gallery:index:products:fitness-cycles:road-bike"/>
+    <file name="mountain-bike.css" crc="266564637" ref="mountain-bike"/>
+    <file name="cross-country-cycle.css" crc="4592450" ref="cross-country-cycle"/>
+    <file name="contact.css" crc="3989476370" ref="contact"/>
+    <file name="bmx.css" crc="176322436" ref="bmx"/>
+    <file name="kids-cycle.css" crc="3778295229" ref="kids-cycle"/>
+    <file name="girls-cycle.css" crc="3866520874" ref="girls-cycle"/>
+    <file name="about.css" crc="108473375" ref="about"/>
+    <file name="gallery.css" crc="108473375" ref="gallery"/>
+    <file name="index.css" crc="520238537" ref="index"/>
+    <file name="products.css" crc="4208573648" ref="products"/>
+    <file name="fitness-cycles.css" crc="3904075035" ref="fitness-cycles"/>
+    <file name="road-bike.css" crc="3988868758" ref="road-bike"/>
+    <file name="nomq_preview_master_a-master.css" crc="3920940650" ref="kids-cycle:girls-cycle:contact:about:index:cross-country-cycle:fitness-cycles:mountain-bike:products:road-bike:bmx:gallery"/>
+    <file name="nomq_kids-cycle.css" crc="377489335" ref="kids-cycle"/>
+    <file name="nomq_girls-cycle.css" crc="3765563542" ref="girls-cycle"/>
+    <file name="nomq_contact.css" crc="115000713" ref="contact"/>
+    <file name="nomq_about.css" crc="3999940308" ref="about"/>
+    <file name="nomq_index.css" crc="3794538392" ref="index"/>
+    <file name="nomq_cross-country-cycle.css" crc="98811318" ref="cross-country-cycle"/>
+    <file name="nomq_fitness-cycles.css" crc="456442856" ref="fitness-cycles"/>
+    <file name="nomq_mountain-bike.css" crc="4273208386" ref="mountain-bike"/>
+    <file name="nomq_products.css" crc="323839004" ref="products"/>
+    <file name="nomq_road-bike.css" crc="55231852" ref="road-bike"/>
+    <file name="nomq_bmx.css" crc="298374646" ref="bmx"/>
+    <file name="nomq_gallery.css" crc="3999940308" ref="gallery"/>
+  </folder>
+  <folder name="fonts">
+    <file name="myriadpro-bold.woff" crc="4284783996"/>
+    <file name="myriadpro-bold.eot" crc="4279868340"/>
+    <file name="myriadpro-bold.svg" crc="420417626"/>
+    <file name="myriadpro-regular.woff" crc="3960264025"/>
+    <file name="myriadpro-regular.eot" crc="357507949"/>
+    <file name="myriadpro-regular.svg" crc="3977161848"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="museutils.js" crc="340535759" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="webpro.js" crc="4059564322" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+    <file name="require.js" crc="7928878" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery:phone>index:phone>products:phone>mountain-bike:phone>road-bike:phone>cross-country-cycle:phone>bmx:phone>fitness-cycles:phone>girls-cycle:phone>kids-cycle:phone>contact:phone>gallery:phone>about"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="bb716d06-8f7a2-4aa5-bf6f-00a8c25d7701.png" crc="4226316259" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="normal cycle.png" crc="3929556015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slash99.jpg" crc="234140353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="71z5csz9f2l_sx355_.jpg" crc="4179969996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1b219665-a303-4be6-bf97-14b9a2bd8bf5.jpg" crc="298715585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wcycle.png" crc="4056156604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fx2disc_19_23350_b_primary.jpg" crc="9199644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="firefox-batman-2-0-bikes-kids-7-9years-blue-color.jpg" crc="251085443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07cycling6.jpg" crc="4129230753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery"/>
+    <file name="bigstock-boy-riding-bike-in-a-helmet-18982934.jpg" crc="483541989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13690573_664441970376253_6778890613440382034_n-crop-u7469.jpg" crc="4291055184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aditya-mehta.jpg" crc="52881757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-1024x529-crop-u7509.jpg" crc="412348043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-design-2-2-1_jj5fho.jpg" crc="7660728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="index-1-440x455.jpg" crc="4252343006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-6-179x175.png" crc="4219424766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-8-173x175.png" crc="156381095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-2-168x175.png" crc="4068274198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-4-130x175.png" crc="3835454189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-5-220x175.png" crc="3908497784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-1-109x175.png" crc="4027764656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="product-7-197x175.png" crc="409112549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montra madrock 275t-crop-u1705.png" crc="525501457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montra new logo-u1866-fr.png" crc="534562640" ref="index"/>
+    <file name="mach-city_1-crop-u1734.png" crc="159478670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="machcity new logo.png" crc="22395558" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hercules-brut_1-crop-u1758.png" crc="430970237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ti_hercules_0.png" crc="243009238" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="roadeo_3-crop-u1768.png" crc="4291831549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ti_roadeo.png" crc="3899280326" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bsa-ladybird_1-crop-u1841.png" crc="4284836001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ti_ladybird_0.png" crc="4025262854" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7fae8359-47c6-424c-a067-46f8096fa6d8.jpg" crc="307475810" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="products-banner.jpg" crc="307568464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cce46747-55eb-4d4b-8504-da726d750511-crop-u2851.jpg" crc="146463942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="41d7zvrzyzl-crop-u3478.jpg" crc="4095287302" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="81cswjap91l_sr500,500_-crop-u3457.jpg" crc="3843703077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="256x256bb-crop-u3008.jpg" crc="3973160687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiindia.png" crc="3922321077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hercules15_logo.jpg" crc="4029335048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2ef7cdf9-ea27-40c9-a755-614ee7aa297b.jpg" crc="4248797902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ti_montra-dec17.jpg" crc="348598791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1e9c24e-0b9b-46e0-bdc4-c32d23e614e9.jpg" crc="3914429634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1502099576-5176.jpg" crc="357936006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="965e4c30-c110-47b0-88f3-af5948f2bc62.jpg" crc="3889694600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mountain-buyingguide-banner-1153px360px-crop-u3909.jpg" crc="4278530029" seo="true" ref="mountain-bike">
+      <caption webpage="mountain-bike" alt="Mountain bike bangalore"/>
+    </file>
+    <file name="12ebd426-fc3b-47aa-b484-116fd1f0b5b5.jpg" crc="345346804" seo="true" ref="mountain-bike">
+      <caption webpage="mountain-bike" alt="Mountain bikes bangalore"/>
+    </file>
+    <file name="women-sun-road-bike-good-banner.jpg" crc="393017943" seo="true" ref="road-bike">
+      <caption webpage="road-bike" alt="Road bikes bangalore"/>
+    </file>
+    <file name="71ldm0ekhgl_sx425_-crop-u4187.jpg" crc="4200149250" seo="true" ref="road-bike">
+      <caption webpage="road-bike" alt="Road bikes bangalore"/>
+    </file>
+    <file name="banner_olivia_1523980434-crop-u4465.jpg" crc="332615498" seo="true" ref="cross-country-cycle">
+      <caption webpage="cross-country-cycle" alt=""/>
+    </file>
+    <file name="big_1331785-crop-u4455.jpg" crc="72425871" seo="true" ref="cross-country-cycle">
+      <caption webpage="cross-country-cycle" alt=""/>
+    </file>
+    <file name="khe-banner-bikes-bmx-bicycle.jpg" crc="4077596851" seo="true" ref="bmx">
+      <caption webpage="bmx" alt=""/>
+    </file>
+    <file name="12893945-af7b-4117-8213-0306c9b3b42f.jpg" crc="3997811701" seo="true" ref="bmx">
+      <caption webpage="bmx" alt=""/>
+    </file>
+    <file name="showimage-crop-u5099.jpg" crc="4292043429" seo="true" ref="fitness-cycles">
+      <caption webpage="fitness-cycles" alt=""/>
+    </file>
+    <file name="78574910305_2-crop-u5079.jpg" crc="234587478" seo="true" ref="fitness-cycles">
+      <caption webpage="fitness-cycles" alt=""/>
+    </file>
+    <file name="bannerlarge-crop-u5251.jpg" crc="490504638" seo="true" ref="girls-cycle">
+      <caption webpage="girls-cycle" alt=""/>
+    </file>
+    <file name="1fb055l0065000c-bsa-18-5-lady-bird-splash-26-s-s-pink-original-imaekwycff2bfxyy.jpg" crc="73836441" seo="true" ref="girls-cycle">
+      <caption webpage="girls-cycle" alt=""/>
+    </file>
+    <file name="1313441_424421414.jpg" crc="53656829" seo="true" ref="kids-cycle">
+      <caption webpage="kids-cycle" alt=""/>
+    </file>
+    <file name="81rza3d68tl_sx425_.jpg" crc="3924650910" seo="true" ref="kids-cycle">
+      <caption webpage="kids-cycle" alt=""/>
+      <caption webpage="kids-cycle" alt=""/>
+    </file>
+    <file name="shiner-metro-city-step-voor-volwassenen-met-vering-crop-u2809.jpg" crc="4236615796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mountain-buyingguide-banner-1153px360px-crop-u39092.jpg" crc="3834473017" seo="true" ref="mountain-bike">
+      <caption webpage="mountain-bike" alt="Mountain bike bangalore"/>
+    </file>
+    <file name="12ebd426-fc3b-47aa-b484-116fd1f0b5b5335x270.jpg" crc="4099738315" seo="true" ref="mountain-bike">
+      <caption webpage="mountain-bike" alt="Mountain bikes bangalore"/>
+    </file>
+    <file name="women-sun-road-bike-good-banner865x295.jpg" crc="105575898" seo="true" ref="road-bike">
+      <caption webpage="road-bike" alt="Road bikes bangalore"/>
+    </file>
+    <file name="71ldm0ekhgl_sx425_-crop-u41872.jpg" crc="503482587" seo="true" ref="road-bike">
+      <caption webpage="road-bike" alt="Road bikes bangalore"/>
+    </file>
+    <file name="banner_olivia_1523980434-crop-u44652.jpg" crc="4086138245" seo="true" ref="cross-country-cycle">
+      <caption webpage="cross-country-cycle" alt=""/>
+    </file>
+    <file name="big_1331785-crop-u44552.jpg" crc="393089984" seo="true" ref="cross-country-cycle">
+      <caption webpage="cross-country-cycle" alt=""/>
+    </file>
+    <file name="khe-banner-bikes-bmx-bicycle865x331.jpg" crc="4267619495" seo="true" ref="bmx">
+      <caption webpage="bmx" alt=""/>
+    </file>
+    <file name="12893945-af7b-4117-8213-0306c9b3b42f353x372.jpg" crc="90850110" seo="true" ref="bmx">
+      <caption webpage="bmx" alt=""/>
+    </file>
+    <file name="showimage-crop-u50992.jpg" crc="3994121302" seo="true" ref="fitness-cycles">
+      <caption webpage="fitness-cycles" alt=""/>
+    </file>
+    <file name="78574910305_2-crop-u50792.jpg" crc="315486892" seo="true" ref="fitness-cycles">
+      <caption webpage="fitness-cycles" alt=""/>
+    </file>
+    <file name="bannerlarge-crop-u52512.jpg" crc="387862575" seo="true" ref="girls-cycle">
+      <caption webpage="girls-cycle" alt=""/>
+    </file>
+    <file name="1fb055l0065000c-bsa-18-5-lady-bird-splash-26-s-s-pink-original-imaekwycff2bfxyy355x284.jpg" crc="4010181095" seo="true" ref="girls-cycle">
+      <caption webpage="girls-cycle" alt=""/>
+    </file>
+    <file name="1313441_424421414865x378.jpg" crc="4152492036" seo="true" ref="kids-cycle">
+      <caption webpage="kids-cycle" alt=""/>
+    </file>
+    <file name="trekking-900-gel-saddle.jpg" crc="428463971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f2c936b1-4137-4cb5-8ecc-aed50e78f0c7.jpg" crc="4167680297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8022701-4.jpg" crc="98309900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08565d5d-6017-4906-bde2-2df7521738d1.jpg" crc="168431616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aluminium-alloy-mtb-cycle-road-bike-bicycle-flat-pedals-9-16-original-imaf6ztx9cfyfqer.jpg" crc="4287147631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="645109e3-3bc1-4be1-aa91-91360df0c17b.jpg" crc="349223159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="41qsibulg0l_sx466_.jpg" crc="349570298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="avon-logo.jpg" crc="4028615326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3f664118-2f8e-4b87-a8a4-31e6656f8e41.jpg" crc="3952187737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c5d8560d-c41a-43c7-8591-0f3d52197da0.jpg" crc="25894641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19261231-9fbd-4537-83cb-fde6c6ef0908.jpg" crc="362916186" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3f664118-2f8e-4b87-a8a4-31e6656f8e41327x206.jpg" crc="4160167394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c5d8560d-c41a-43c7-8591-0f3d52197da0320x206.jpg" crc="4001871610" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19261231-9fbd-4537-83cb-fde6c6ef0908334x206.jpg" crc="317195714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="npc-crop-u15659.jpg" crc="521975073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="npc-crop-u15537.jpg" crc="3786813431" seo="true" ref="index:products:mountain-bike:road-bike:cross-country-cycle:bmx:fitness-cycles:girls-cycle:kids-cycle:about:contact:gallery">
+      <caption webpage="products" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="fitness-cycles" alt=""/>
+      <caption webpage="fitness-cycles" alt=""/>
+      <caption webpage="road-bike" alt=""/>
+      <caption webpage="road-bike" alt=""/>
+      <caption webpage="girls-cycle" alt=""/>
+      <caption webpage="girls-cycle" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="kids-cycle" alt=""/>
+      <caption webpage="kids-cycle" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="cross-country-cycle" alt=""/>
+      <caption webpage="cross-country-cycle" alt=""/>
+      <caption webpage="mountain-bike" alt=""/>
+      <caption webpage="mountain-bike" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="bmx" alt=""/>
+      <caption webpage="bmx" alt=""/>
+    </file>
+    <file name="npc-crop-u156592.jpg" crc="521975073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="448222800" seo="true" mt="1570192384818" redirect="true"/>
+  <file name="products.html" crc="162840064" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="mountain-bike.html" crc="508718038" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="road-bike.html" crc="463280061" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="cross-country-cycle.html" crc="3828092254" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="bmx.html" crc="24862737" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="fitness-cycles.html" crc="4237417539" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="girls-cycle.html" crc="3900238515" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="kids-cycle.html" crc="166990747" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="about.html" crc="425008444" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="contact.html" crc="273844631" seo="true" mt="1570191943873" redirect="true"/>
+  <file name="gallery.html" crc="4077276025" seo="true" mt="1570191943873" redirect="true"/>
+</manifest>
