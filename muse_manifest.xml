@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cycle.com" resolutions="1x" timestamp="1570387754049">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WEBCMEDIA.COM" resolutions="1x" timestamp="1570998522990">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="463928568" ref="index"/>
+    <file name="index.css" crc="3782856878" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,27 +18,36 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="c1.jpg" crc="3782389401" seo="true" ref="index">
+    <file name="whatsapp image 2019-09-20 at 54136 pm.jpg" crc="3932219002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c2.jpg" crc="255178292" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-06 at 64929 pm.jpg" crc="420758469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c3.jpg" crc="3991442619" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-06 at 64930 pm(1).jpg" crc="3889660517" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c4.jpg" crc="513237537" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-06 at 64930 pm.jpg" crc="513237537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c5.jpg" crc="3889660517" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-06 at 75914 pm.jpg" crc="3782389401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c6.jpg" crc="420758469" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-07 at 11227 pm.jpg" crc="4056060146" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="c7.jpg" crc="3932219002" seo="true" ref="index">
+    <file name="whatsapp image 2019-10-13 at 112149 am.jpg" crc="219635474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-10-13 at 112151 am(1).jpg" crc="55761432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-10-13 at 112152 am(1).jpg" crc="4051522447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-10-13 at 112152 am.jpg" crc="4028617168" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="132029191" seo="true" mt="1570387721836" redirect="true"/>
+  <file name="index.html" crc="4196997095" seo="true" mt="1570998324758" redirect="true"/>
 </manifest>
