@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="newperfectcycles.com" resolutions="1x" timestamp="1570217166712">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="newperfectcycles.com" resolutions="1x" timestamp="1570390002844">
   <folder name="css">
-    <file name="site_global.css" crc="3815430160"/>
-    <file name="master_a-master.css" crc="3988505444" ref="contact:index"/>
+    <file name="site_global.css" crc="3826618856"/>
+    <file name="master_a-master.css" crc="65764292" ref="contact:index"/>
     <file name="contact.css" crc="301405021" ref="contact"/>
-    <file name="index.css" crc="223025177" ref="index"/>
+    <file name="index.css" crc="4053879679" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="myriadpro-bold.woff" crc="4284783996"/>
@@ -47,27 +47,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="07cycling6-crop-u496.jpg" crc="4103610358" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bigstock-boy-riding-bike-in-a-helmet-18982934.jpg" crc="4143570441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13690573_664441970376253_6778890613440382034_n.jpg" crc="3889079925" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aditya-mehta.jpg" crc="338533514" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="banner-1024x529-crop-u506.jpg" crc="258595203" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="untitled-design-2-2-1_jj5fho.png" crc="125141591" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="slash99.jpg" crc="4119190699" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -200,6 +179,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="313930375" seo="true" mt="1570217122312" redirect="true"/>
+  <file name="index.html" crc="3861566332" seo="true" mt="1570389965287" redirect="true"/>
   <file name="contact.html" crc="4135000792" seo="true" mt="1570217122312" redirect="true"/>
 </manifest>
